@@ -46,7 +46,7 @@ nav ul li {
 }
 
 nav.active ul li {
-    transform: rotateY(45deg);
+    transform: rotateY(720deg);
     opacity: 1;
 }
 
